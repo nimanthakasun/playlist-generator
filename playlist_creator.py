@@ -16,7 +16,7 @@
 #
 #   Automatic playlist generator
 #   Kasun Nimantha Bamunuarachchi
-#   Execution Command: exec(open("filepath/208556B_playlist_creator.py").read())
+#   Execution Command: exec(open("filepath/playlist_creator.py").read())
 #   Dataset source: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=tracks.csv
 #
 ####################################
