@@ -9,3 +9,5 @@ BPM is among basic measures of checking similar sounding songs. Of course there 
 ## Future work
 - It's possible to modify this code to evaluate more features.
 - Also Integrating neural network will bring more amazing results.
+
+Social Preveiw from FreePik : <a href="https://www.freepik.com/free-vector/happy-girl-wearing-headphones-enjoying-playlist-listening-music-mobile-phone-singing-songs_12291063.htm#fromView=search&page=1&position=3&uuid=26b60805-0527-4566-86c3-56f32d234ab4">Image by pch.vector on Freepik</a>
